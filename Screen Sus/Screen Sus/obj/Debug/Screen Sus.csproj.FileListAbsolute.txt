@@ -1,0 +1,7 @@
+D:\c#\Screen Sus\Screen Sus\bin\Debug\Screen Sus.exe.config
+D:\c#\Screen Sus\Screen Sus\bin\Debug\Screen Sus.exe
+D:\c#\Screen Sus\Screen Sus\bin\Debug\Screen Sus.pdb
+D:\c#\Screen Sus\Screen Sus\obj\Debug\Screen Sus.csproj.AssemblyReference.cache
+D:\c#\Screen Sus\Screen Sus\obj\Debug\Screen Sus.csproj.CoreCompileInputs.cache
+D:\c#\Screen Sus\Screen Sus\obj\Debug\Screen Sus.exe
+D:\c#\Screen Sus\Screen Sus\obj\Debug\Screen Sus.pdb
