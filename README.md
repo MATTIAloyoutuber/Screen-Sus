@@ -1,3 +1,4 @@
+ESEGUITELO COME ADMIN 
 Screen Sus :
 è un mio trojan *SOLO A SCOPO EDUCATIVO* con onde (è molto semplice) defender non lo rileva :
 ![Screenshot 2024-04-23 113909](https://github.com/MATTIAloyoutuber/Screen-Sus/assets/164758246/611bdad2-14f9-4d66-9045-281dac87d041)
